@@ -28,8 +28,8 @@ To run the project locally on your machine:
    git clone https://github.com/Aditya-Acharya12/to-do-list.git ```
 2. Navigate to the project folder:
 
-  ```bash
-  cd todo-list-web-app
+```bash
+cd todo-list-web-app
 ```
 3.Install the required dependencies:
 
