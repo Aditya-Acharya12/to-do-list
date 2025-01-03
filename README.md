@@ -24,8 +24,10 @@ To run the project locally on your machine:
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/Aditya-Acharya12/to-do-list.git ```
+```bash
+git clone https://github.com/Aditya-Acharya12/to-do-list.git
+```
+
 2. Navigate to the project folder:
 
 ```bash
