@@ -33,17 +33,17 @@ git clone https://github.com/Aditya-Acharya12/to-do-list.git
 ```bash
 cd todo-list-web-app
 ```
-3.Install the required dependencies:
+3. Install the required dependencies:
 
 ```bash
 npm install
 ```
 
-4.Set up PostgreSQL and create the database:
+4. Set up PostgreSQL and create the database:
 
 Create a PostgreSQL database and update the connection details in the db.js file.
 
-5.Run the application:
+5. Run the application:
 
 ```bash
 npm start
