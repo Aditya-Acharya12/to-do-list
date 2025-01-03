@@ -1,7 +1,7 @@
 import express from "express";
 import bodyParser from "body-parser";
 import pg from "pg";
-import process from "dotenv";
+import 'dotenv/config';
 
 const app = express();
 const port = process.env.SERVER_PORT;
